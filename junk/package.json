@@ -9,6 +9,7 @@
   "author": "digvijayb",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^2.2.15"
+    "mongodb": "^2.2.15",
+    "mongoose": "4.0.3"
   }
 }
